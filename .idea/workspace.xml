@@ -201,14 +201,14 @@
       <screen x="0" y="0" width="1536" height="804" />
     </state>
     <state x="179" y="244" key="#SQL_Dialects/0.0.1536.804@0.0.1536.804" timestamp="1598066658057" />
-    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598066753815">
+    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598075539363">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.804@0.0.1536.804" timestamp="1598066753815" />
-    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1598075121430">
+    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.804@0.0.1536.804" timestamp="1598075539363" />
+    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1598075557582">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1536.804@0.0.1536.804" timestamp="1598075121430" />
+    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1536.804@0.0.1536.804" timestamp="1598075557582" />
     <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1598067563948">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
@@ -261,17 +261,17 @@
       <screen x="0" y="0" width="1536" height="804" />
     </state>
     <state x="270" y="47" key="SettingsEditor/0.0.1536.804@0.0.1536.804" timestamp="1598012216486" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1598074771457">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1598075598502">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.804@0.0.1536.804" timestamp="1598074771457" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.804@0.0.1536.804" timestamp="1598075598502" />
     <state x="468" y="134" width="600" height="596" key="find.popup" timestamp="1598066140972">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
     <state x="468" y="134" width="600" height="596" key="find.popup/0.0.1536.804@0.0.1536.804" timestamp="1598066140972" />
-    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598074749583">
+    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598075587425">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.804@0.0.1536.804" timestamp="1598074749583" />
+    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.804@0.0.1536.804" timestamp="1598075587425" />
   </component>
 </project>

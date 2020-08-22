@@ -10,7 +10,7 @@ import util.IdWorker;
 /**
  * @Auther: zhangjun
  * @Date: 2019/9/12 19:54
- * @Description:  秒杀功能
+ * @Description:  订单服务
  */
 @SpringBootApplication
 @EnableEurekaClient

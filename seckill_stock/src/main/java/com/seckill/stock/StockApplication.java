@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @Auther: zhangjun
  * @Date: 2019/9/8 12:01
- * @Description:
+ * @Description:  商品服务
  */
 @SpringBootApplication
 @EnableEurekaClient
