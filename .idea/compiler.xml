@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seckill_common" />
+        <module name="seckill_zuul" />
+        <module name="seckill_client" />
+        <module name="seckill_stock" />
+        <module name="seckill_user" />
+        <module name="seckill_order" />
+        <module name="seckill_time" />
+        <module name="seckill_server" />
+        <module name="seckill_storage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seckill_client" target="1.8" />
+      <module name="seckill_common" target="1.8" />
+      <module name="seckill_order" target="1.8" />
+      <module name="seckill_parent" target="1.8" />
+      <module name="seckill_server" target="1.8" />
+      <module name="seckill_stock" target="1.8" />
+      <module name="seckill_storage" target="1.8" />
+      <module name="seckill_time" target="1.8" />
+      <module name="seckill_user" target="1.8" />
+      <module name="seckill_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="seckill_client" options="-parameters" />
+      <module name="seckill_common" options="-parameters" />
+      <module name="seckill_order" options="-parameters" />
+      <module name="seckill_server" options="-parameters" />
+      <module name="seckill_stock" options="-parameters" />
+      <module name="seckill_storage" options="-parameters" />
+      <module name="seckill_time" options="-parameters" />
+      <module name="seckill_user" options="-parameters" />
+      <module name="seckill_zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

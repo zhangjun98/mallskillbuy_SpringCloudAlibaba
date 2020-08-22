@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21db35e9-ab36-400b-a733-8c487371145e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepository" />
+        <option name="mavenHome" value="D:\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gPM0KQZbRaCEkfJ7fpAWiO0KYe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClientApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seckill_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckill_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seckill.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckill_stock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seckill.stock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.stock.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckill_storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seckill.storage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.storage.StorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckill_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seckill.time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.time.TimeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seckill_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seckill.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seckill.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StockApplication" />
+        <item itemvalue="Spring Boot.StorageApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.TimeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21db35e9-ab36-400b-a733-8c487371145e" name="Default Changelist" comment="" />
+      <created>1598011552090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598011552090</updated>
+      <workItem from="1598011553322" duration="1961000" />
+      <workItem from="1598059374652" duration="7455000" />
+      <workItem from="1598067594121" duration="28000" />
+      <workItem from="1598074710910" duration="457000" />
+      <workItem from="1598075173579" duration="63000" />
+    </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1598062665245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598062665245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新 redis端口号与 加入redis 包">
+      <created>1598075122771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598075122771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <MESSAGE value="更新 redis端口号与 加入redis 包" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 redis端口号与 加入redis 包" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="244" key="#SQL_Dialects" timestamp="1598066658057">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="179" y="244" key="#SQL_Dialects/0.0.1536.804@0.0.1536.804" timestamp="1598066658057" />
+    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598066753815">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.804@0.0.1536.804" timestamp="1598066753815" />
+    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1598075121430">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1536.804@0.0.1536.804" timestamp="1598075121430" />
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.0.center" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.center/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.0.left" timestamp="1598067563947">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.left/0.0.1536.804@0.0.1536.804" timestamp="1598067563947" />
+    <state width="1493" height="264" key="GridCell.Tab.0.right" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.right/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.2.bottom" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.2.bottom/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.2.center" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.2.center/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.2.left" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.2.left/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state width="1493" height="264" key="GridCell.Tab.2.right" timestamp="1598067563948">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.2.right/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
+    <state x="270" y="47" key="SettingsEditor" timestamp="1598012216486">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="270" y="47" key="SettingsEditor/0.0.1536.804@0.0.1536.804" timestamp="1598012216486" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1598074771457">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.804@0.0.1536.804" timestamp="1598074771457" />
+    <state x="468" y="134" width="600" height="596" key="find.popup" timestamp="1598066140972">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="468" y="134" width="600" height="596" key="find.popup/0.0.1536.804@0.0.1536.804" timestamp="1598066140972" />
+    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598074749583">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="551" y="302" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.804@0.0.1536.804" timestamp="1598074749583" />
+  </component>
+</project>

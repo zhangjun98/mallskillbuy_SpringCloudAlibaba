@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/seckill_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_stock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_time/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seckill_zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>

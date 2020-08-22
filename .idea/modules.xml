@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seckill_client/seckill_client.iml" filepath="$PROJECT_DIR$/seckill_client/seckill_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_common/seckill_common.iml" filepath="$PROJECT_DIR$/seckill_common/seckill_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_order/seckill_order.iml" filepath="$PROJECT_DIR$/seckill_order/seckill_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_parent.iml" filepath="$PROJECT_DIR$/seckill_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_server/seckill_server.iml" filepath="$PROJECT_DIR$/seckill_server/seckill_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_stock/seckill_stock.iml" filepath="$PROJECT_DIR$/seckill_stock/seckill_stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_storage/seckill_storage.iml" filepath="$PROJECT_DIR$/seckill_storage/seckill_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_time/seckill_time.iml" filepath="$PROJECT_DIR$/seckill_time/seckill_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_user/seckill_user.iml" filepath="$PROJECT_DIR$/seckill_user/seckill_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill_zuul/seckill_zuul.iml" filepath="$PROJECT_DIR$/seckill_zuul/seckill_zuul.iml" />
+    </modules>
+  </component>
+</project>
