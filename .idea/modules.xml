@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/address/nacos-address.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/address/nacos-address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/nacos-all.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/nacos-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/api/nacos-api.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/api/nacos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/client/nacos-client.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/client/nacos-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/cmdb/nacos-cmdb.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/cmdb/nacos-cmdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/common/nacos-common.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/common/nacos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/config/nacos-config.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/config/nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/consistency/nacos-consistency.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/consistency/nacos-consistency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/console/nacos-console.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/console/nacos-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/core/nacos-core.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/core/nacos-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/distribution/nacos-distribution.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/distribution/nacos-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/example/nacos-example.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/example/nacos-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/istio/nacos-istio.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/istio/nacos-istio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/naming/nacos-naming.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/naming/nacos-naming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-1.3.2/test/nacos-test.iml" filepath="$PROJECT_DIR$/nacos-1.3.2/test/nacos-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/seckill_client/seckill_client.iml" filepath="$PROJECT_DIR$/seckill_client/seckill_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/seckill_common/seckill_common.iml" filepath="$PROJECT_DIR$/seckill_common/seckill_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/seckill_order/seckill_order.iml" filepath="$PROJECT_DIR$/seckill_order/seckill_order.iml" />

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21db35e9-ab36-400b-a733-8c487371145e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seckill.sql" beforeDir="false" afterPath="$PROJECT_DIR$/seckill.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nacos-1.3.2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,10 +49,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Test\huiqincode\seckill_parent" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ClientApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -162,7 +169,7 @@
       <workItem from="1598067594121" duration="28000" />
       <workItem from="1598074710910" duration="457000" />
       <workItem from="1598075173579" duration="63000" />
-      <workItem from="1598075241980" duration="303000" />
+      <workItem from="1598075241980" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交">
       <created>1598062665245</created>
@@ -185,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598075453354</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加sql">
+      <created>1598075558728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598075558728</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加注释">
+      <created>1598075820863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598075820863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +215,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新 redis端口号与 加入redis 包" />
     <MESSAGE value="初次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+    <MESSAGE value="添加sql" />
+    <MESSAGE value="添加注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加注释" />
   </component>
   <component name="WindowStateProjectService">
     <state x="179" y="244" key="#SQL_Dialects" timestamp="1598066658057">
@@ -205,10 +228,14 @@
       <screen x="0" y="0" width="1536" height="804" />
     </state>
     <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.804@0.0.1536.804" timestamp="1598075539363" />
-    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1598075557582">
+    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1598075818730">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1536.804@0.0.1536.804" timestamp="1598075557582" />
+    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1536.804@0.0.1536.804" timestamp="1598075818730" />
+    <state x="570" y="109" key="FileChooserDialogImpl" timestamp="1598075990985">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="570" y="109" key="FileChooserDialogImpl/0.0.1536.804@0.0.1536.804" timestamp="1598075990985" />
     <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1598067563948">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
@@ -257,14 +284,18 @@
       <screen x="0" y="0" width="1536" height="804" />
     </state>
     <state width="1493" height="264" key="GridCell.Tab.2.right/0.0.1536.804@0.0.1536.804" timestamp="1598067563948" />
-    <state x="270" y="47" key="SettingsEditor" timestamp="1598012216486">
+    <state x="429" y="106" key="NewModule_or_Project.wizard" timestamp="1598075994511">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="270" y="47" key="SettingsEditor/0.0.1536.804@0.0.1536.804" timestamp="1598012216486" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1598075598502">
+    <state x="429" y="106" key="NewModule_or_Project.wizard/0.0.1536.804@0.0.1536.804" timestamp="1598075994511" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1598076001868">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.804@0.0.1536.804" timestamp="1598075598502" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.804@0.0.1536.804" timestamp="1598076001868" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1598075823704">
+      <screen x="0" y="0" width="1536" height="804" />
+    </state>
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.804@0.0.1536.804" timestamp="1598075823704" />
     <state x="468" y="134" width="600" height="596" key="find.popup" timestamp="1598066140972">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
